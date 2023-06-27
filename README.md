@@ -1,5 +1,5 @@
 # Layer 2 Attacks
-Project done in "Network Security" course at Ca'Foscari University, check the report for a project explanation.
+Project done in "Network Security" course at Ca'Foscari University, check the documentation for a project explanation.
 
 ## Description of the project:
 The main objectives of this project are two: to experiment and present several Layer 2 attacks on Managed Switches, as well as understanding the entity of the damages and the possible remediations to them. 
